@@ -1,6 +1,6 @@
 from turtle import *
 
-speed(1)
+speed(0)
 setup(800, 500)
 
 penup()
